@@ -1,0 +1,24 @@
+com/fretron/vehicleManager/services/VehicleService_Factory.java
+ com.fretron.vehicleManager.services.VehicleService_Factory
+com/fretron/vehicleManager/di/modules/HttpModule_ProvideServerFactory.java
+ com.fretron.vehicleManager.di.modules.HttpModule_ProvideServerFactory
+com/fretron/vehicleManager/di/components/DaggerVehicleAppComponent.java
+ com.fretron.vehicleManager.di.components.DaggerVehicleAppComponent
+ com.fretron.vehicleManager.di.components.DaggerVehicleAppComponent$1
+ com.fretron.vehicleManager.di.components.DaggerVehicleAppComponent$Builder
+com/fretron/vehicleManager/repositories/VehicleRepository_Factory.java
+ com.fretron.vehicleManager.repositories.VehicleRepository_Factory
+com/fretron/vehicleManager/model/Vehicle.java
+ com.fretron.vehicleManager.model.Vehicle
+ com.fretron.vehicleManager.model.Vehicle$1
+ com.fretron.vehicleManager.model.Vehicle$Builder
+com/fretron/vehicleManager/di/modules/ConfigModule_PortProviderFactory.java
+ com.fretron.vehicleManager.di.modules.ConfigModule_PortProviderFactory
+com/fretron/vehicleManager/di/modules/ConfigModule_HostProviderFactory.java
+ com.fretron.vehicleManager.di.modules.ConfigModule_HostProviderFactory
+com/fretron/vehicleManager/di/modules/HttpModule_ProvideResourceFactory.java
+ com.fretron.vehicleManager.di.modules.HttpModule_ProvideResourceFactory
+com/fretron/vehicleManager/di/modules/DatabaseModule_ProvideMongoDatabaseFactory.java
+ com.fretron.vehicleManager.di.modules.DatabaseModule_ProvideMongoDatabaseFactory
+com/fretron/vehicleManager/resources/VehicleResource_Factory.java
+ com.fretron.vehicleManager.resources.VehicleResource_Factory
