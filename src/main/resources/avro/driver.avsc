@@ -1,0 +1,33 @@
+{
+  "name": "Driver",
+  "namespace": "driverManager.models",
+  "type": "record",
+  "fields": [
+
+    {
+      "name": "uuid",
+      "type": ["null","string"],
+      "default": null
+    },
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "licenseId",
+      "type": "string"
+    },
+    {
+      "name": "associatedVehicleId",
+      "type": ["null","string"],
+      "default": null
+    },
+    {
+      "name": "eventType",
+      "type": ["null","string"],
+      "default": null
+    }
+
+
+  ]
+}
